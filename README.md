@@ -10,7 +10,7 @@
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)
 
 # Video Demo
-[Video demo about Wireless Collabration Device which runs all the protocals](https://youtu.be/vj5lItw1W1c){:target="_blank"}
+[Video demo about Wireless Collabration Device which runs all the protocals](https://youtu.be/vj5lItw1W1c)
 
 # Contact Us
 * **mail**:[sales@bijienetworks.com](mailto:sales@bijienetworks.com)
