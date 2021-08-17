@@ -23,7 +23,7 @@
 
 ## API
 
-* **Android**: Jave/AAR or C/C++
+* **Android**: Java/AAR or C/C++
 * **Linux**: C/C++
 * **deliverables**: demo source code + document + SDK
 
@@ -33,5 +33,4 @@
 
 [Windows 10 Demo Video](https://youtu.be/TMy0mwlwAWY)
 
-[Demo APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
 
