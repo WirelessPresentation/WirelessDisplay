@@ -18,6 +18,6 @@
 * **Mobile**：(+86)18994301192
 * **Skype**: live:wangnull_1
 * **Wechat**: 18994301192
-* **Website**: [www.bjcast.com](www.bjcast.com)
+* **Website**: [www.bjcast.com](https://www.bjcast.com)
 
 
