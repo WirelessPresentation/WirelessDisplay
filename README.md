@@ -26,10 +26,10 @@ support main wireless display protocols of Airplay SDK, Miracast SDK, WiDi SDK, 
 
 ### API
 
-* Android: Jave/AAR or C/C++
-* Linux: C/C++
-* Windows: C/C++
-* deliverables: demo source code + document + SDK
+* **Android**: Jave/AAR or C/C++
+* **Linux**: C/C++
+* **Windows**: C/C++
+* **deliverables**: demo source code + document + SDK
 
 ### Demo Video
 
