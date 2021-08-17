@@ -20,9 +20,9 @@ support main wireless display protocols of Airplay SDK, Miracast SDK, WiDi SDK, 
 
 ### Performance
 
-* Delay: 60ms-300ms. The main influencing factors are network jitter and decoding rendering delay of the SOC.
-* Multiple Count: no limit in sdk. the number  is mainly affected by the transmission performance of the network and the and video decoding ability of the SOC.
-* Size: Less than 5MB
+* **Delay**: 60ms-300ms. The main influencing factors are network jitter and decoding rendering delay of the SOC.
+* **Multiple Count**: no limit in sdk. the number  is mainly affected by the transmission performance of the network and the and video decoding ability of the SOC.
+* **Size**: Less than 5MB
 
 ### API
 
