@@ -1,6 +1,3 @@
-# WirelessDisplay SDK
-support main wireless display protocols of Airplay SDK, Miracast SDK, WiDi SDK, GoogleCast SDK, DLNA SDK, BJCast SDK
-
 ## Airplay Receiver SDK
 
 ### Feature
@@ -19,18 +16,20 @@ support main wireless display protocols of Airplay SDK, Miracast SDK, WiDi SDK, 
 
 ### Performance
 
-* Delay: 60ms-300ms. The main influencing factors are network jitter and decoding rendering delay of the SOC.
-* Multiple Count: no limit in sdk. the number  is mainly affected by the transmission performance of the network and the and video decoding ability of the SOC.
-* Size: Less than 5MB
+* **Delay**: 60ms-300ms. The main influencing factors are network jitter and decoding rendering delay of the SOC.
+* **Multiple Count**: no limit in sdk. the number  is mainly affected by the transmission performance of the network and the and video decoding ability of the SOC.
+* **Size**: Less than 5MB
 
 ### API
 
-* Android: Jave/AAR or C/C++
-* Linux: C/C++
-* Windows: C/C++
-* deliverables: demo source code + document + SDK
+* **Android**: Jave/AAR or C/C++
+* **Linux**: C/C++
+* **Windows**: C/C++
+* **deliverables**: demo source code + document + SDK
 
-### Demo Video
+### Demo Test
 
-[Airplay Demo](https://youtu.be/BFXxS-F0uYQ)
+[Video Demo](https://youtu.be/BFXxS-F0uYQ)
+
+[Demo APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
 
