@@ -9,6 +9,7 @@
 
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)
 
+# Video Demo
 [Video Demo about BJ80 which runs all the protocals](https://youtu.be/vj5lItw1W1c)
 
 # Contact Us
