@@ -1,6 +1,10 @@
 # WirelessDisplay SDK
 
-support main wireless display protocols of Airplay SDK, Miracast SDK, WiDi SDK, GoogleCast SDK, DLNA SDK, BJCast SDK
+* Support main wireless display protocols of Airplay SDK, Miracast SDK, WiDi SDK, GoogleCast SDK, DLNA SDK, BJCast SDK
+* Can run on windows/linux/android
+* Simple to intergrate, maybe only takes you a or two weeks
+* Each protocol is separate from the other. For details, see the description of each protocol in this directory
+* Strong R & D team, perfect technical support
 
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)
 
