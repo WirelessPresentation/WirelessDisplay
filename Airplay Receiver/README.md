@@ -1,6 +1,6 @@
-## Airplay Receiver SDK
+# Airplay Receiver SDK
 
-### Feature
+## Feature
 
 * Support Mirror, URL, Music
 * support youtube
@@ -14,20 +14,20 @@
 * SDK interface easy integration and provide demo source code
 * Has been widely used by many customers, mature and stable
 
-### Performance
+## Performance
 
 * **Delay**: 60ms-300ms. The main influencing factors are network jitter and decoding rendering delay of the SOC.
 * **Multiple Count**: no limit in sdk. the number  is mainly affected by the transmission performance of the network and the and video decoding ability of the SOC.
 * **Size**: Less than 5MB
 
-### API
+## API
 
 * **Android**: Jave/AAR or C/C++
 * **Linux**: C/C++
 * **Windows**: C/C++
 * **deliverables**: demo source code + document + SDK
 
-### Demo Test
+## Demo Test
 
 [Video Demo](https://youtu.be/BFXxS-F0uYQ)
 
