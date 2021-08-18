@@ -52,5 +52,10 @@
 
 [Demo Video](https://youtu.be/Un5bajkEqag)
 
-[Demo Receive APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
+[Download Demo Receive APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
+
+[Download MacOS Sender](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/send/BJCast-2.0.24.dmg)
+[Download Windows Sender](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/send/BJCast_setup_2.1.19.exe)
+[Download Android Sender](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/send/BJCast-v2.2.2.apk)
+
 
