@@ -1,4 +1,4 @@
-# Airplay Receiver
+# Airplay Receiver SDK
 
 ## Feature
 
@@ -9,8 +9,6 @@
 * support multiple senders, No quantity limit in software
 * support negotiate resolution and frame rate
 * support windows/android/linux
-* Cloud license authorization, multiple authorization modes, support global authorization
-* The License service provides the functions of management , query, and export authorization reports
 * SDK interface easy integration and provide demo source code
 * Has been widely used by many customers, mature and stable
 
