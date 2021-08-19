@@ -28,6 +28,7 @@
 * **deliverables**: demo source code + document + SDK
 
 ## Release Version Test
+![Show 6 Airplays in one time](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/airplay-6.jpg)
 
 [Video Demo](https://youtu.be/BFXxS-F0uYQ)
 
