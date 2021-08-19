@@ -48,11 +48,11 @@
 * **Linux**: C/C++
 * **deliverables**: demo source code + document + SDK
 
-# Test Demo
+# Release Version
 
 [Demo Video](https://youtu.be/Un5bajkEqag)
 
-[Download Demo Receive APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
+[Download Receive APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
 
 [Download MacOS Sender](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/send/BJCast-2.0.24.dmg)
 
