@@ -62,3 +62,5 @@
 
 Download iOS Sender(Search 'bjcast' in Apple Play Store)
 
+#### 6 BJCasts from iPhone/Mac/Android Phone/Windows
+![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/bjcast-6.jpg)
