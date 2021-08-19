@@ -28,9 +28,10 @@
 * **deliverables**: demo source code + document + SDK
 
 ## Release Version Test
-![Show 6 Airplays in one time](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/airplay-6.jpg)
 
 [Video Demo](https://youtu.be/BFXxS-F0uYQ)
 
 [Download Release APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
 
+### Show 6 Airplays（from iPhone, iPAD, Mac mini, Mac Air） in one time
+![Show 6 Airplays in one time](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/airplay-6.jpg)
