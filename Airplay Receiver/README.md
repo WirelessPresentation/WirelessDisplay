@@ -1,4 +1,4 @@
-# Airplay Receiver SDK
+# Airplay Receiver
 
 ## Feature
 
