@@ -27,7 +27,7 @@
 * **Linux**: C/C++
 * **deliverables**: demo source code + document + SDK
 
-## Test Demo
+## Release Version 
 
 [Android Demo Video](https://youtu.be/a2p8lRKjv3k)
 
