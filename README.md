@@ -8,6 +8,7 @@
 * **THE APPS ARE FREE**
 
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)
+![](https://github.com/WirelessPresentation/WirelessDisplay/blob/main/zimg/googlecast-airplay-miracast-bjcast.jpg.jpg)
 
 # Video Demo
 [Video demo about Wireless Collabration Device which runs all the protocals](https://youtu.be/vj5lItw1W1c)
