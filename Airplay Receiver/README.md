@@ -27,9 +27,9 @@
 * **Windows**: C/C++
 * **deliverables**: demo source code + document + SDK
 
-## Demo Test
+## Release Version Test
 
 [Video Demo](https://youtu.be/BFXxS-F0uYQ)
 
-[Demo APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
+[Download Release APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
 
