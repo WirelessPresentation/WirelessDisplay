@@ -9,17 +9,15 @@
 
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)
 
-### THE ALL PROTOCALS  
-![](https://github.com/WirelessPresentation/WirelessDisplay/blob/main/zimg/googlecast-airplay-miracast-bjcast.jpg.jpg)
-
 ### HOW TO USE
-* DOWNLOAD THE LATEST APK
-[DOWNLOAD RELEASE APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
+* [DOWNLOAD THE LATEST APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
 * INSTALL ON YOUR ANDROID TV OR PAD
 * WIRELESS PRESENT 
 ![](https://github.com/WirelessPresentation/WirelessDisplay/blob/main/zimg/help.png)
 
-# Video Demo
+### THE EFFECT
+![](https://github.com/WirelessPresentation/WirelessDisplay/blob/main/zimg/googlecast-airplay-miracast-bjcast.jpg.jpg)
+
 [Video demo about Wireless Collabration Device which runs all the protocals](https://youtu.be/vj5lItw1W1c)
 
 # Support
