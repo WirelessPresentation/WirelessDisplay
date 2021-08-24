@@ -1,0 +1,62 @@
+ARCH = arm
+HOST = arm-linux
+
+export PATH:=/rnd/android-r9d-4.8-15/bin:${PATH}
+CROSS_COMPILE=arm-linux-androideabi-
+ANDROID_STL_PATH =/rnd/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi
+CC:= ${CROSS_COMPILE}gcc 
+CPP:=${CROSS_COMPILE}cpp 
+CXX:= ${CROSS_COMPILE}g++
+LD:=${CROSS_COMPILE}ld
+AR:= ${CROSS_COMPILE}ar 
+RANLIB:= ${CROSS_COMPILE}ranlib
+STRIP:=${CROSS_COMPILE}strip
+
+TARGET = bj_airplay_demo 
+
+APP_INCLUDE = -I../imp_com_sdk -I./  -I../target/normal/sdk/include -I../../license_verify_v3
+
+CFLAGS	+= $(APP_INCLUDE)  -pie -fPIE  
+#armv7-a
+CPPFLAGS += $(APP_INCLUDE) -std=c++11  -march=armv7-a -mfloat-abi=softfp -mfpu=neon -pie -fPIE 
+LD_FLAGS += -pie -fPIE 
+LIBNAME += -g -L../../license_verify_v3  -L${ANDROID_STL_PATH} -L../target/normal/sdk/armeabi-v7a -lbjairplay_sdk -llicense_apply -lgnustl_static -lstdc++ -lc -ldl -lm -llog 
+
+SRCS   =  $(wildcard *.cpp) $(wildcard *.c) $(wildcard *.cxx) 
+
+LIBOBJS = $(patsubst %.c,%.o, $(SRCS))
+LIBOBJS := $(patsubst %.cpp,%.o, $(LIBOBJS))
+LIBOBJS := $(patsubst %.cxx,%.o, $(LIBOBJS))
+DEPENDS = $(patsubst %.c,%.d, $(SRCS))
+DEPENDS := $(patsubst %.cpp,%.d, $(DEPENDS))
+DEPENDS := $(patsubst %.cxx,%.d, $(DEPENDS))
+
+-include $(DEPENDS)
+
+$./%.o: %.c
+	$(CC) $(CFLAGS) -c -o $@ $<
+
+$./%.o: %.cpp
+	$(CXX) $(CPPFLAGS) -c -o $@ $<
+
+$./%.o: %.cxx
+	$(CXX) $(CPPFLAGS) -c -o $@ $<
+
+.PHONY : all
+all:  $(TARGET) 
+
+
+$(TARGET): $(LIBOBJS)
+	$(CXX) -o $@ $(LIBOBJS) $(LIBNAME) $(LD_FLAGS)
+
+
+
+.PHONY : clean
+clean:
+	-rm -f $(LIBOBJS) $(DEPENDS)
+	-rm -f $(TARGET) $(TARGET_S)
+
+.PHONY : install
+install:
+	$(INSTALL) $(TARGET) $(INSTALL_BIN_DIR)
+	
