@@ -23,7 +23,7 @@
 
 ## Release Version
 
-[Download APK](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/TV/BJTV-1.0.25.1-release_10251_jiagu_sign.apk)
+[Download APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
 
 ### 6 GoogeCast from Chrome/Edge/Android Phone
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/googlecast-6.jpg)
