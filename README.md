@@ -22,7 +22,7 @@
 [Wireless Collabration Device which runs all the protocals](https://youtu.be/vj5lItw1W1c)
 
 ## Support
-* **Mail**: [support](mailto:support@bijienetworks.com)
+* **Mail**: [support](mailto:sales@bjcast.com)
 * **TEL**：(+86)0512-67663822
 * **Mobile**：(+86)18994301192
 * **Skype**: live:wangnull_1
