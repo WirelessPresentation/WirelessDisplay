@@ -10,7 +10,7 @@
 * support negotiate resolution and frame rate
 * support I-Frame Request
 * support high frame rate transmission of windows cursor to improve operating fluency
-* SDK interface easy integration and provide demo source code
+* SDK interface is easy to integrate and provides demonstration source code
 * has been widely used by many customers, mature and stable
 
 ## API
