@@ -9,7 +9,7 @@
 * support multiple senders, No quantity limit in software
 * support negotiate resolution and frame rate
 * support windows/android/linux
-* SDK interface easy integration and provide demo source code
+* SDK interface is easy to integrate and provides demonstration source code
 * Has been widely used by many customers, mature and stable
 
 ## Performance
