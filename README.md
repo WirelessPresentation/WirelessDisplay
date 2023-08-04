@@ -26,7 +26,8 @@
 * **TEL**：(+86)0512-67663822
 * **Mobile**：(+86)18994301192
 * **Skype**: live:wangnull_1
-* **Wechat**: 18994301192
+* **Wechat**: (+86) 18994301192
+* **WhatsApp** (+86) 18994301192
 * **Website**: [www.bjcast.com](https://www.bjcast.com)
 
 
