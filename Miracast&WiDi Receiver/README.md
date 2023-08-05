@@ -2,18 +2,18 @@
 
 ## Feature
 
-* support Android and Windows wireless display
-* good compatibility, testing more than 100 Android phones and computers
-* more than 20 wireless modules have been adapted
-* support multiple senders, No quantity limit in software
-* support negotiate resolution and frame rate
-* support I-Frame Request
-* support high frame rate transmission of windows cursor to improve operating fluency
-* support UIBC
-* support HDCP
-* can run on android and linux
+* Support Android and Windows wireless display
+* Good compatibility, testing more than 100 Android phones and computers
+* More than 20 wireless modules have been adapted
+* Support multiple senders, No quantity limit in software
+* Support negotiate resolution and frame rate
+* Support I-Frame Request
+* Support high frame rate transmission of windows cursor to improve operating fluency
+* Support UIBC
+* Support HDCP
+* Can run on android and linux
 * SDK interface easy integration and provide demo source code
-* has been widely used by many customers, mature and stable
+* Has been widely used by many customers, mature and stable
 
 ## Performance
 
