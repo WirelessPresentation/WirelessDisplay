@@ -3,9 +3,9 @@
 ## Feature
 
 * Support DLNA MediaRender
-* support Iqiyi, Youku or other streaming APP
-* support PAUSE/PLAY/SEEK/STOP
-* support picture/video/music
+* Support Iqiyi, Youku or other streaming APP
+* Support PAUSE/PLAY/SEEK/STOP
+* Support picture/video/music
 
 ## Performance
 
