@@ -3,8 +3,8 @@
 ## Feature
 
 * Support Airplay/DLNA/GoogleCast/BJCast
-* support Video/Audio/Mirror from mobile device to TV in hotel
-* support youtube & Tencent Video App in URL mode
+* Support Video/Audio/Mirror from mobile device to TV in hotel
+* Support youtube & Tencent Video App in URL mode
 * Prevent wireless display  to other rooms
 * Guests do not need to install additional software
 
@@ -14,8 +14,8 @@
 * **Install**:  Install on the smart tv of hotel
 * **Use**: 
   * Open the BJTV-Hotel APP on the TV
-  * scan the QR code on the TV from your mobile phone
-  * then you can find the TV device while you are wireless display from your mobile phone
+  * Scan the QR code on the TV from your mobile phone
+  * Then you can find the TV device while you are wireless display from your mobile phone
 
 
 
