@@ -3,12 +3,12 @@
 ## Feature
 
 * Support Mirror, URL, Music
-* support youtube
-* support youtube & Tencent Video App in URL mode
-* support Mirroring360
-* support multiple senders, No quantity limit in software
-* support negotiate resolution and frame rate
-* support windows/android/linux
+* Support youtube
+* Support youtube & Tencent Video App in URL mode
+* Support Mirroring360
+* Support multiple senders, No quantity limit in software
+* Support negotiate resolution and frame rate
+* Support windows/android/linux
 * SDK interface is easy to integrate and provides demonstration source code
 * Has been widely used by many customers, mature and stable
 
