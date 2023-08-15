@@ -25,15 +25,15 @@
 
 ## Feature
 
-* support multiple senders, No quantity limit in software
-* support PIN code and short code
-* support negotiate resolution and frame rate
-* support I-Frame Request
-* support network monitoring and automatic reconnection after disconnection
-* support high frame rate transmission of windows cursor to improve operating fluency
-* can run on android and linux and windows
+* Support multiple senders, No quantity limit in software
+* Support PIN code and short code
+* Support negotiate resolution and frame rate
+* Support I-Frame Request
+* Support network monitoring and automatic reconnection after disconnection
+* Support high frame rate transmission of windows cursor to improve operating fluency
+* Can run on android and linux and windows
 * SDK interface easy integration and provide demo source code
-* has been widely used by many customers, mature and stable
+* Has been widely used by many customers, mature and stable
 
 ## Performance
 
