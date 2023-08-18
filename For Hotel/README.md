@@ -15,7 +15,7 @@
 * **Use**: 
   * Open the BJTV-Hotel APP on the TV
   * Scan the QR code on the TV with your phone
-  * Then you can find the TV device while you are wireless display from your mobile phone
+  * Then when you have wireless display through your phone, you can find the TV device
 
 
 
