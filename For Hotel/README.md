@@ -2,7 +2,7 @@
 
 ## Feature
 
-* Support Airplay/DLNA/GoogleCast/BJCast
+* Support Airplay/DLNA/GoogleCast/BJCast  
 * Support Video/Audio/Mirror from mobile device to TV in hotel
 * Support youtube & Tencent Video App in URL mode
 * Prevent wireless display  to other rooms
