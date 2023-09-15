@@ -1,6 +1,6 @@
 # WirelessDisplay
 ## MAIN FEATURES
-* Support main wireless display protocols of Airplay, Miracast, WiDi, GoogleCast, DLNA, BJCast 
+* Support main wireless display protocols of Airplay, Miracast, WiDi, GoogleCast, DLNA, BJCast    
 * Can run on windows/linux/android
 * Simple to intergrate, maybe only takes you one or two weeks
 * Strong R&D team and comprehensive technical support(**R&d engineer support by mail/voice call/video call/IM tools...**)
