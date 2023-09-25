@@ -2,7 +2,7 @@
 
 ## Feature
 
-* Include Android/iOS/Windows/MacOS sender sdk 
+* Include Android/iOS/Windows/MacOS sender SDK 
 * Include screen capture/video encoder/video send by networks
 * Support hardware encoder
 * Support app windows capture or extend screen
