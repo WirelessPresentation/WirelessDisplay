@@ -2,7 +2,7 @@
 ## MAIN FEATURES
 * Support main wireless display protocols of Airplay, Miracast, WiDi, GoogleCast, DLNA, BJCast    
 * Can run on windows/linux/android
-* Simple to intergrate, maybe only takes you one or two weeks
+* Simple to integrate, maybe only take you one or two weeks
 * Strong R&D team and comprehensive technical support(**R&d engineer support by mail/voice call/video call/IM tools...**)
 * For details, please refer to the description of each protocol in this directory
 * **THE APPS ARE FREE**
@@ -12,7 +12,7 @@
 ## HOW TO USE
 * [DOWNLOAD THE LATEST APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
 * INSTALL ON YOUR ANDROID TV OR PAD
-* WIRELESS PRESENT FOLLOWING HELPS AT THIS FIGURE
+* WIRELESS PRESENT FOLLOWING HELPS WITH THIS FIGURE
 ![](https://github.com/WirelessPresentation/WirelessDisplay/blob/main/zimg/help.png)
 
 ## THE EFFECT
