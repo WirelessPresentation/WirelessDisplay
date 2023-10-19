@@ -3,7 +3,7 @@
 ## Feature
 
 * Support mirror from Chrome/ChromeBook/Android Phone/Edge   
-* Support multiple senders, No quantity limit in software
+* Support multiple senders, No quantity limit in software  
 * Does not rely on Google services, can run offline
 * Can run on android and linux
 * SDK interface easy integration and provide demo source code
