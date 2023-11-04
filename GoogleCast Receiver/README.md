@@ -19,7 +19,7 @@
 
 * **Android**: Java/AAR or C/C++
 * **Linux**: C/C++
-* **Deliverables**: demo source code + document + SDK  
+* **Deliverables**: demo source code + document + SDK    
 
 ## Release Version
 
