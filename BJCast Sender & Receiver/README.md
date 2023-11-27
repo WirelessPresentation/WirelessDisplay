@@ -33,7 +33,7 @@
 * Support high frame rate transmission of windows cursor to improve operating fluency
 * Can run on android and linux and windows
 * SDK interface easy integration and provide demo source code
-* Has been widely used by many customers, mature and stable
+* Has been widely used by many customers, mature and stable  
 
 ## Performance
 
