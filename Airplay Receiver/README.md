@@ -3,8 +3,8 @@
 ## Feature
 
 * Support Mirror, URL, Music    
-* Support youtube
-* Support youtube & Tencent Video App in URL mode
+* Support Youtube 
+* Support Youtube & Tencent Video App in URL mode
 * Support Mirroring360
 * Support multiple senders, No quantity limit in software
 * Support negotiate resolution and frame rate
