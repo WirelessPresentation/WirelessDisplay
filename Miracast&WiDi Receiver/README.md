@@ -4,7 +4,7 @@
 
 * Support Android and Windows Wireless Display  
 * Good compatibility, testing more than 100 Android phones and computers  
-* More than 20 wireless modules have been adapted
+* More than 20 Wireless modules have been adapted
 * Support multiple senders, No quantity limit in software
 * Support negotiate resolution and frame rate
 * Support I-Frame Request
