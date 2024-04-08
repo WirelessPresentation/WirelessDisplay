@@ -7,7 +7,7 @@
 * Does not rely on Google services, can run offline
 * Can run on Android and linux  
 * SDK interface easy integration and provide demo source code  
-* Has been widely used by many customers, mature and stable  
+* Has been widely used by many customers, mature and stable    
 
 ## Performance  
 
