@@ -23,7 +23,7 @@
 
 # BJCast Receiver SDK  
 
-## Feature
+## Feature  
 
 * Support multiple senders, No quantity limit in software
 * Support PIN code and short code
