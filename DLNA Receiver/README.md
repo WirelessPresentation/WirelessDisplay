@@ -10,7 +10,7 @@
 ## Performance
 
 * **Multiple Count**: Support one    
-* **Size**: Less than 5MB        
+* **Size**: Less than 5MB          
 
 ## API
 
