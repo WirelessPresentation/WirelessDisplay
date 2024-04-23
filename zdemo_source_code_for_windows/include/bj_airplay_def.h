@@ -1,6 +1,6 @@
   
 #ifndef BJ_AIRPLAY_DEF_H
-#define BJ_AIRPLAY_DEF_H
+#define BJ_AIRPLAY_DEF_H  
 
 typedef enum
 {
