@@ -21,7 +21,7 @@
 * **Windows**: C/C++/C#/node.js Electron addon  
 * **deliverables**: demo source code + document + SDK    
 
-# BJCast Receiver SDK  
+# BJCast Receiver SDK    
 
 ## Feature  
 
