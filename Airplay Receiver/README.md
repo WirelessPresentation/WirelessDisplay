@@ -22,7 +22,7 @@
 
 * **Android**: Java/AAR or C/C++    
 * **Linux**: C/C++
-* **Windows**: C/C++
+* **Windows**: C/C++  
 * **Deliverables**: demo source code + document + SDK
 
 ## Release Version Test
