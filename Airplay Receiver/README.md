@@ -10,7 +10,7 @@
 * Support negotiate resolution and frame rate
 * Support Windows/Android/Linux    
 * SDK interface is easy to integrate and provides demonstration source code  
-* Has been widely used by many customers, mature and stable        
+* Has been widely used by many customers, mature and stable          
 
 ## Performance
 
