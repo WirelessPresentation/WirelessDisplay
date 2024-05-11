@@ -14,7 +14,7 @@
 * **Install**:  Install on the smart tv of hotel
 * **Use**: 
   * Open the BJTV-Hotel APP on the TV
-  * Scan the QR code on the TV with your phone      
+  * Scan the QR code on the TV with your phone        
   * Then when you have wireless display through your phone, you can find the TV device      
 
 
