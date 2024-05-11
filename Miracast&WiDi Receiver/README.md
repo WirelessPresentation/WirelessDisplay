@@ -9,7 +9,7 @@
 * Support negotiate resolution and frame rate
 * Support I-Frame Request  
 * Support high frame rate transmission of windows cursor to improve operating fluency
-* Support UIBC
+* Support UIBC  
 * Support HDCP  
 * Can run on Android and linux
 * SDK interface easy integration and provide demo source code    
