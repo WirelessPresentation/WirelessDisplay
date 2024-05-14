@@ -11,7 +11,7 @@
 * Support high frame rate transmission of windows cursor to improve operating fluency
 * Support UIBC  
 * Support HDCP  
-* Can run on Android and linux
+* Can run on Android and linux  
 * SDK interface easy integration and provide demo source code    
 * Has been widely used by many customers, mature and stable      
 
