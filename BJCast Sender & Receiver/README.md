@@ -25,7 +25,7 @@
 
 ## Feature  
 
-* Support multiple senders, No quantity limit in software
+* Support multiple senders, No quantity limit in software  
 * Support PIN code and short code
 * Support negotiate resolution and frame rate
 * Support I-Frame Request
