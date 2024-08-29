@@ -27,7 +27,7 @@
 
 * Support multiple senders, No quantity limit in software  
 * Support PIN code and short code
-* Support negotiate resolution and frame rate
+* Support negotiate resolution and frame rate  
 * Support I-Frame Request
 * Support network monitoring and automatic reconnection after disconnection
 * Support high frame rate transmission of windows cursor to improve operating fluency
