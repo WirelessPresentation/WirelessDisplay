@@ -14,7 +14,7 @@
 
 ## API
 
-* **Android**: Java/AAR or C/C++       
+* **Android**: Java/AAR or C/C++         
 * **Linux**: C/C++  
 * **Deliverables**: Demo source code + document + SDK      
 
