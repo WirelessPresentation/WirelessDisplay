@@ -6,7 +6,7 @@
 * Support Video/Audio/Mirror from mobile device to TV in hotel    
 * Support YouTube & Tencent Video App in URL mode
 * Prevent Wireless display  to other rooms        
-* Guests do not need to install additional software                       
+* Guests do not need to install additional software                         
 
 ## How to Use  
 
