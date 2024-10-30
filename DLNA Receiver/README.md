@@ -7,7 +7,7 @@
 * Support PAUSE/PLAY/SEEK/STOP   
 * Support picture/video/music                 
 
-## Performance
+## Performance       
 
 * **Multiple Count**: Support one           
 * **Size**: Less than 5MB              
