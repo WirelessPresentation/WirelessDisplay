@@ -15,7 +15,7 @@
 * **Multiple Count**: No limit in sdk. The number  is mainly affected by the transmission performance of the network and the and video decoding ability of the SOC.
 * **Size**: Less than 5MB       
 
-## API
+## API       
 
 * **Android**: Java/AAR or C/C++            
 * **Linux**: C/C++  
