@@ -5,7 +5,7 @@
 * Include Android/iOS/Windows/MacOS sender SDK   
 * Include screen capture/video encoder/video send by networks  
 * Support hardware encoder
-* Support app windows capture or extend screen  
+* Support app windows capture or extend screen     
 * Support tcp and udp
 * Support negotiate resolution and frame rate        
 * Support I-Frame Request    
