@@ -9,16 +9,16 @@
 
 ## Performance       
 
-* **Multiple Count**: Support one               
+* **Multiple Count**: Support one                
 * **Size**: Less than 5MB              
 
 ## API
 
-* **Android**: Java/AAR or C/C++           
+* **Android**: Java/AAR or C/C++            
 * **Linux**: C/C++     
-* **Deliverables**: Demo source code + document + SDK        
+* **Deliverables**: Demo source code + document + SDK         
 
 ## Release Version          
-
+   
 [Download APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
 
