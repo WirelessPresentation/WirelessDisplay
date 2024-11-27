@@ -7,7 +7,7 @@
 * For details, please refer to the description of each protocol in this directory                     
 * **THE APPS ARE FREE**  
 
-![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)   
+![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)       
 
 ## HOW TO USE
 * [DOWNLOAD THE LATEST APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
