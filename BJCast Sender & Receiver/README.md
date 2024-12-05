@@ -19,13 +19,13 @@
 * **iOS**: Object-C/C++
 * **MacOS**: Object-C/node.js Electron addon
 * **Windows**: C/C++/C#/node.js Electron addon  
-* **deliverables**: demo source code + document + SDK    
+* **deliverables**: demo source code + document + SDK       
 
 # BJCast Receiver SDK    
 
 ## Feature  
 
-* Support multiple senders, No quantity limit in software  
+* Support multiple senders, No quantity limit in software     
 * Support PIN code and short code
 * Support negotiate resolution and frame rate  
 * Support I-Frame Request
