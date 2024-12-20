@@ -11,14 +11,14 @@
 * Support I-Frame Request    
 * Support high frame rate transmission of windows cursor to improve operating fluency      
 * SDK interface is easy to integrate and provides demonstration source code          
-* Has been widely used by many customers, mature and stable                        
+* Has been widely used by many customers, mature and stable                           
 
 ## API
 
 * **Android**: Jave/AAR 
 * **iOS**: Object-C/C++
 * **MacOS**: Object-C/node.js Electron addon
-* **Windows**: C/C++/C#/node.js Electron addon  
+* **Windows**: C/C++/C#/node.js Electron addon     
 * **deliverables**: demo source code + document + SDK       
 
 # BJCast Receiver SDK    
