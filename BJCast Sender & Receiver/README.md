@@ -5,11 +5,11 @@
 * Include Android/iOS/Windows/MacOS sender SDK   
 * Include screen capture/video encoder/video send by networks     
 * Support hardware encoder
-* Support app windows capture or extend screen     
+* Support app windows capture or extend screen        
 * Support tcp and udp
 * Support negotiate resolution and frame rate           
 * Support I-Frame Request    
-* Support high frame rate transmission of windows cursor to improve operating fluency      
+* Support high frame rate transmission of windows cursor to improve operating fluency         
 * SDK interface is easy to integrate and provides demonstration source code          
 * Has been widely used by many customers, mature and stable                           
 
