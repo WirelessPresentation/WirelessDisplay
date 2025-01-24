@@ -19,11 +19,11 @@
 
 * **Delay**: 60ms-300ms. The main influencing factors are network jitter and decoding rendering delay of the SOC.       
 * **Multiple Count**: No limit in sdk. the number  is mainly affected by the transmission performance of the network and the and video decoding ability of the SOC.   
-* **Size**: Less than 5MB    
+* **Size**: Less than 5MB      
 
 ## API
 
-* **Android**: Java/AAR or C/C++  
+* **Android**: Java/AAR or C/C++     
 * **Linux**: C/C++  
 * **Deliverables**: Demo source code + document + SDK    
 
