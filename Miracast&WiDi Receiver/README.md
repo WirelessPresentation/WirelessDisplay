@@ -12,8 +12,8 @@
 * Support UIBC      
 * Support HDCP  
 * Can run on Android and linux            
-* SDK interface easy integration and provide demo source code                    
-* Has been widely used by many customers, mature and stable               
+* SDK interface easy integration and provide demo source code                       
+* Has been widely used by many customers, mature and stable                 
 
 ## Performance
 
