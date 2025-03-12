@@ -6,7 +6,7 @@
 * Support Youtube 
 * Support Youtube & Tencent Video App in URL mode             
 * Support Mirroring 360  
-* Support multiple senders, No quantity limit in software        
+* Support multiple senders, No quantity limit in software           
 * Support negotiate resolution and frame rate
 * Support Windows/Android/Linux    
 * SDK interface is easy to integrate and provides demonstration source code                 
