@@ -12,7 +12,7 @@
 ## HOW TO USE
 * [DOWNLOAD THE LATEST APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
 * INSTALL ON YOUR ANDROID TV OR PAD
-* WIRELESS PRESENT FOLLOWING HELPS AT THIS FIGURE   
+* WIRELESS PRESENT FOLLOWING HELPS AT THIS FIGURE       
 ![](https://github.com/WirelessPresentation/WirelessDisplay/blob/main/zimg/help.png)
 
 ## THE EFFECT
