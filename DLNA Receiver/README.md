@@ -16,9 +16,9 @@
 
 * **Android**: Java/AAR or C/C++              
 * **Linux**: C/C++     
-* **Deliverables**: Demo source code + document + SDK               
+* **Deliverables**: Demo source code + document + SDK                   
 
-## Release Version          
+## Release Version              
    
 [Download APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
 
