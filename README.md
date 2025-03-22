@@ -3,8 +3,8 @@
 * Support main wireless display protocols of Airplay, Miracast, WiDi, GoogleCast, DLNA, BJCast          
 * Can run on windows/linux/android 
 * Simple to intergrate, maybe only takes you one or two weeks         
-* Strong R&D team and comprehensive technical support(**R&d engineer support by mail/voice call/video call/IM tools...**)             
-* For details, please refer to the description of each protocol in this directory                                   
+* Strong R&D team and comprehensive technical support(**R&d engineer support by mail/voice call/video call/IM tools...**)                
+* For details, please refer to the description of each protocol in this directory                                      
 * **THE APPS ARE FREE**  
 
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)           
