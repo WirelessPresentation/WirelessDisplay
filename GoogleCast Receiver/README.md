@@ -7,11 +7,11 @@
 * Does not rely on Google services, can run offline    
 * Can run on Android and linux  
 * SDK interface easy integration and provide demo source code         
-* Has been widely used by many customers, mature and stable                                               
+* Has been widely used by many customers, mature and stable                                                          
 
 ## Performance  
 
-* **Delay**: 60ms-300ms. The main influencing factors are network jitter and decoding rendering delay of the SOC.      
+* **Delay**: 60ms-300ms. The main influencing factors are network jitter and decoding rendering delay of the SOC.                   
 * **Multiple Count**: No limit in sdk. The number  is mainly affected by the transmission performance of the network and the and video decoding ability of the SOC.
 * **Size**: Less than 5MB                
 
