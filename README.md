@@ -3,7 +3,7 @@
 * Support main wireless display protocols of Airplay, Miracast, WiDi, GoogleCast, DLNA, BJCast          
 * Can run on windows/linux/android 
 * Simple to intergrate, maybe only takes you one or two weeks         
-* Strong R&D team and comprehensive technical support(**R&d engineer support by mail/voice call/video call/IM tools...**)                   
+* Strong R&D team and comprehensive technical support(**R&d engineer support by mail/voice call/video call/IM tools...**)                     
 * For details, please refer to the description of each protocol in this directory                                      
 * **THE APPS ARE FREE**  
 
@@ -26,7 +26,7 @@
 * **TEL**：(+86)0512-67663822
 * **Mobile**：(+86)18994301192    
 * **Skype**: live:wangnull_1
-* **Wechat**: (+86) 18994301192
+* **Wechat**: (+86) 18994301192                        
 * **WhatsApp** (+86) 18994301192
 * **Website**: [www.bjcast.com](https://www.bjcast.com)
 
