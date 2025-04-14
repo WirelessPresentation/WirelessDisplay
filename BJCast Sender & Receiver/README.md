@@ -7,7 +7,7 @@
 * Support hardware encoder
 * Support app windows capture or extend screen        
 * Support tcp and udp
-* Support negotiate resolution and frame rate                  
+* Support negotiate resolution and frame rate                           
 * Support I-Frame Request    
 * Support high frame rate transmission of windows cursor to improve operating fluency         
 * SDK interface is easy to integrate and provides demonstration source code                              
