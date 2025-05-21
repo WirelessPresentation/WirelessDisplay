@@ -7,7 +7,7 @@
 * More than 20 Wireless modules have been adapted
 * Support multiple senders, No quantity limit in software               
 * Support negotiate resolution and frame rate
-* Support I-Frame Request  
+* Support I-Frame Request                             
 * Support high frame rate transmission of windows cursor to improve operating fluency                                                                     
 * Support UIBC                               
 * Support HDCP  
