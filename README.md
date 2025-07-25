@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=WirelessPresentation&project=WirelessDisplay&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # WirelessDisplay  
 ## MAIN FEATURES
 * Support main wireless display protocols of Airplay, Miracast, WiDi, GoogleCast, DLNA, BJCast          
