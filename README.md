@@ -10,7 +10,7 @@
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/all%20protocals.png)           
 
 ## HOW TO USE
-* [DOWNLOAD THE LATEST APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
+* [DOWNLOAD THE LATEST APK](https://play.google.com/store/apps/details?id=com.bjnet.bjcast.play)
 * INSTALL ON YOUR ANDROID TV OR PAD
 * WIRELESS PRESENT FOLLOWING HELPS AT THIS FIGURE       
 ![](https://github.com/WirelessPresentation/WirelessDisplay/blob/main/zimg/help.png)
