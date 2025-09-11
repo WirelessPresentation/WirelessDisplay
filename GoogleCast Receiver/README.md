@@ -23,9 +23,10 @@
 
 ## Release Version
 
-[Download APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
+[Download APK](https://play.google.com/store/apps/details?id=com.bjnet.bjcast.play)
 
 ### 6 GoogeCast from Chrome/Edge/Android Phone   
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/googlecast-6.jpg)
+
 
 
