@@ -29,7 +29,8 @@
 
 [Video Demo](https://youtu.be/BFXxS-F0uYQ)
 
-[Download Release APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
+[Download Release APK](https://play.google.com/store/apps/details?id=com.bjnet.bjcast.play)
 
 ### Show 6 Airplays（from iPhone, iPAD, Mac mini, Mac Air） in one time
 ![Show 6 Airplays in one time](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/airplay-6.jpg)
+
