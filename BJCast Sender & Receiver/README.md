@@ -52,7 +52,7 @@
 
 [Demo Video](https://youtu.be/Un5bajkEqag)
 
-[Download Receive APK](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/latest/BJCastTV.apk)
+[Download Receive APK](https://play.google.com/store/apps/details?id=com.bjnet.bjcast.play)
 
 [Download MacOS Sender](https://github.com/WirelessPresentation/WirelessDisplay-SDK/releases/download/send/BJCast-2.0.24.dmg)
 
@@ -64,3 +64,4 @@ Download iOS Sender(Search 'bjcast' in Apple Play Store)
 
 ### 6 BJCasts from iPhone/Mac/Android Phone/Windows
 ![](https://github.com/WirelessPresentation/WirelessDisplay-SDK/blob/main/zimg/bjcast-6.jpg)
+
