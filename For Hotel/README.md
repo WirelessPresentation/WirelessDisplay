@@ -10,7 +10,7 @@
 
 ## How to Use  
 
-* **Download**: [BJTV-Hotel](https://github.com/WirelessPresentation/WirelessDisplay/releases/download/TV-Hotel/BJTV-Hotel-1.0.31.2-release.apk)
+
 * **Install**:  Install on the smart tv of hotel          
 * **Use**: 
   * Open the BJTV-Hotel APP on the TV                
@@ -20,3 +20,4 @@
 
 
 ![](https://github.com/WirelessPresentation/WirelessDisplay/blob/main/zimg/BJTV-Hotel.png)
+
